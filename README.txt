@@ -38,7 +38,8 @@ Once a Cloak has been created, you can "recreate" or "resew" the Cloak, using th
 
 == REQUIREMENTS:
 
-* A valid Flash or Flex installation.
+* Flash 9 or greater.
+* Flash Builder, Flash CS4, or my ActionscriptRakeTemplate project.
 
 == INSTALL:
 
